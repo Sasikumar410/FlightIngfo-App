@@ -12,5 +12,5 @@ FlightInfoApp is a simple Android application built using Kotlin. It displays fl
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FlightInfoApp.git
+   git clone https://github.com/Sasi/FlightInfoApp.git
    
